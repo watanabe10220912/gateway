@@ -10,6 +10,7 @@ function App() {
         <ul>
           <li>profile</li>
           <li>works</li>
+          <li>note</li>
           <li>contact</li>
         </ul>
       </body>
